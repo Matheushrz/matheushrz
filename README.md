@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Matheus Reis
 
-<!--
-**Matheushrz/matheushrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software • 💻 Dev em formação (remoto)  
+⚡ React • Node.js • Python • REST APIs • Git/GitHub
 
-Here are some ideas to get you started:
+### 🔗 Links
+- Portfólio: https://matheushrz.github.io/matheus-portfolio
+- LinkedIn: https://www.linkedin.com/in/matheus-reis-bb38a7265
+- GitHub: https://github.com/Matheushrz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Destaques
+- **Portfólio** – Site responsivo com dark mode e animações  
+- **To-Do React** – app com filtros e localStorage  
+- **API de Produtos (Node)** – CRUD com Express  
+- **Sugest-oCine (Python)** – recomendação simples
+
+> Aberto a **estágio remoto**. Curto aprender rápido e somar no time.
