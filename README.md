@@ -1,46 +1,63 @@
-👋 Hi, I’m Matheus Reis
+# 👋 Matheus Reis
 
-(Scroll down for Portuguese 🇧🇷)
+🎓 Software Engineering Student • 💻 Aspiring Frontend/Fullstack Developer  
+🌎 Open to **remote internships** and international opportunities  
 
-🎓 Software Engineering Student • 💻 Frontend/Fullstack Developer in progress (remote)
-⚡ Passionate about building modern web applications with React, Node.js, Python, REST APIs, and Git/GitHub
+---
 
-⸻
+## 🔗 Links
+- 🌐 [Portfolio](https://matheushrz.github.io/matheus-portfolio)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-reis-bb38a7265)  
+- 🖥️ [GitHub](https://github.com/Matheushrz)  
 
-📌 Featured Projects
+---
 
-🚀 Responsive Portfolio – Dark mode, smooth animations, modern design
-📝 To-Do App (React) – Filters, LocalStorage, clean UI
-📦 Products API (Node.js + Express) – CRUD, RESTful API
-🎬 Sugest-oCine (Python) – Simple recommendation system
+## 🚀 Featured Projects
+- **Responsive Portfolio** – Dark mode, smooth animations, modern UI  
+- **To-Do App (React)** – Filters, LocalStorage, clean UI  
+- **Products API (Node.js + Express)** – RESTful CRUD API  
+- **Sugest-oCine (Python)** – Simple recommendation system  
 
-⸻
+---
 
-🌱 Currently Learning
+## 🌱 Currently Learning
+- Next.js • TypeScript • Prisma + PostgreSQL • UI/UX  
 
-Next.js • TypeScript • Prisma + PostgreSQL • UI/UX best practices
+---
 
-⸻
+## ✨ About Me
+I’m passionate about creating modern, impactful applications and learning fast.  
+Collaborating with teams and solving real-world problems motivates me every day.  
 
-🤝 Open To
-	•	Remote internships or junior opportunities
-	•	Collaboration on open-source or innovative projects
+---
 
-✨ “Always building, always learning.”
+# 🇧🇷 Em Português
 
-⸻
+🎓 Estudante de Engenharia de Software • 💻 Desenvolvedor Frontend/Fullstack em formação  
+🌎 Aberto a **estágios remotos** e oportunidades internacionais  
 
-🇧🇷 Em Português
+---
 
-🎓 Estudante de Engenharia de Software • 💻 Desenvolvedor Frontend/Fullstack em formação (remoto)
-⚡ Apaixonado por criar aplicações web modernas com React, Node.js, Python, REST APIs e Git/GitHub
+## 🔗 Links
+- 🌐 [Portfólio](https://matheushrz.github.io/matheus-portfolio)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-reis-bb38a7265)  
+- 🖥️ [GitHub](https://github.com/Matheushrz)  
 
-📌 Projetos em Destaque
-	•	🚀 Portfólio Responsivo – Dark mode, animações suaves, design moderno
-	•	📝 To-Do App (React) – Filtros, LocalStorage, interface limpa
-	•	📦 API de Produtos (Node.js + Express) – CRUD, API RESTful
-	•	🎬 Sugest-oCine (Python) – Sistema simples de recomendação
+---
 
-🌱 Aprendendo agora: Next.js, TypeScript, Prisma + PostgreSQL, UI/UX
+## 🚀 Projetos em Destaque
+- **Portfólio Responsivo** – Dark mode, animações suaves, UI moderna  
+- **To-Do App (React)** – Filtros, LocalStorage, interface limpa  
+- **API de Produtos (Node.js + Express)** – CRUD, API RESTful  
+- **Sugest-oCine (Python)** – Sistema simples de recomendação  
 
-🤝 Aberto a: Estágio remoto, colaborações e desafios reais
+---
+
+## 🌱 Atualmente Aprendendo
+- Next.js • TypeScript • Prisma + PostgreSQL • UI/UX  
+
+---
+
+## ✨ Sobre Mim
+Apaixonado por criar aplicações modernas e impactantes, sempre aprendendo rápido.  
+Colaborar em equipe e resolver problemas reais é o que me motiva todos os dias.  
