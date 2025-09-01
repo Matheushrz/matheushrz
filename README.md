@@ -1,7 +1,7 @@
 # 👋 Matheus Reis
 
-🎓 Software Engineering Student • 💻 Aspiring Frontend/Fullstack Developer  
-🌎 Open to **remote internships** and international opportunities  
+🎓 Software Engineering Student • 💻 Frontend Developer  
+🌍 Open to **remote opportunities** and international collaborations  
 
 ---
 
@@ -13,28 +13,31 @@
 ---
 
 ## 🚀 Featured Projects
-- **Responsive Portfolio** – Dark mode, smooth animations, modern UI  
-- **To-Do App (React)** – Filters, LocalStorage, clean UI  
-- **Products API (Node.js + Express)** – RESTful CRUD API  
-- **Sugest-oCine (Python)** – Simple recommendation system  
+- **[Portfolio Website](https://matheushrz.github.io/matheus-portfolio/)** – Clean UI, dark/light mode, smooth animations, AI assistant  
+- **[Scroll Odyssey](https://github.com/Matheushrz/Scroll-Odyssey)** – Immersive storytelling website with parallax effects  
+- **[Interactive 3D Showcase](https://github.com/Matheushrz/Interactive-3D-Showcase)** – 3D product carousel with animations  
+- **[UI Playground](https://github.com/Matheushrz/UI-Playground)** – Collection of modern UI microinteractions  
 
 ---
 
 ## 🌱 Currently Learning
-- Next.js • TypeScript • Prisma + PostgreSQL • UI/UX  
+- Advanced **React** and **Next.js**  
+- **TypeScript** best practices  
+- **TailwindCSS** and modern UI design  
+- Building scalable **Frontend architectures**  
 
 ---
 
 ## ✨ About Me
-I’m passionate about creating modern, impactful applications and learning fast.  
-Collaborating with teams and solving real-world problems motivates me every day.  
+I’m passionate about creating **modern, engaging web experiences** with clean code and thoughtful design.  
+My focus is **Frontend Development**, and I aim to deliver impactful projects that combine performance, usability, and aesthetics.  
 
 ---
 
 # 🇧🇷 Em Português
 
-🎓 Estudante de Engenharia de Software • 💻 Desenvolvedor Frontend/Fullstack em formação  
-🌎 Aberto a **estágios remotos** e oportunidades internacionais  
+🎓 Estudante de Engenharia de Software • 💻 Desenvolvedor Frontend  
+🌍 Aberto a **oportunidades remotas** e colaborações internacionais  
 
 ---
 
@@ -46,18 +49,21 @@ Collaborating with teams and solving real-world problems motivates me every day.
 ---
 
 ## 🚀 Projetos em Destaque
-- **Portfólio Responsivo** – Dark mode, animações suaves, UI moderna  
-- **To-Do App (React)** – Filtros, LocalStorage, interface limpa  
-- **API de Produtos (Node.js + Express)** – CRUD, API RESTful  
-- **Sugest-oCine (Python)** – Sistema simples de recomendação  
+- **[Website Portfólio](https://matheushrz.github.io/matheus-portfolio/)** – UI clean, dark/light mode, animações suaves, assistente IA  
+- **[Scroll Odyssey](https://github.com/Matheushrz/Scroll-Odyssey)** – Site imersivo de storytelling com efeitos de parallax  
+- **[Interactive 3D Showcase](https://github.com/Matheushrz/Interactive-3D-Showcase)** – Carrossel 3D de produtos com animações  
+- **[UI Playground](https://github.com/Matheushrz/UI-Playground)** – Coleção de microinterações modernas de UI  
 
 ---
 
 ## 🌱 Atualmente Aprendendo
-- Next.js • TypeScript • Prisma + PostgreSQL • UI/UX  
+- **React** e **Next.js** avançados  
+- Boas práticas de **TypeScript**  
+- **TailwindCSS** e design moderno  
+- Arquiteturas escaláveis de **Frontend**  
 
 ---
 
 ## ✨ Sobre Mim
-Apaixonado por criar aplicações modernas e impactantes, sempre aprendendo rápido.  
-Colaborar em equipe e resolver problemas reais é o que me motiva todos os dias.  
+Sou apaixonado por criar **experiências web modernas e envolventes**, com código limpo e design pensado.  
+Meu foco é **Desenvolvimento Frontend**, buscando sempre unir performance, usabilidade e estética em cada projeto.  
