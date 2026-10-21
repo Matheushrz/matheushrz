@@ -1,69 +1,96 @@
-# 👋 Matheus Reis
 
-🎓 Software Engineering Student • 💻 Frontend Developer  
-🌍 Open to **remote opportunities** and international collaborations  
+# Hi, I'm Matheus Reis 👋
 
----
+### Junior Software Engineer | Web Development | Building MTX Commerce
 
-## 🔗 Links
-- 🌐 [Portfolio](https://matheushrz.github.io/matheus-portfolio)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-reis-bb38a7265)  
-- 🖥️ [GitHub](https://github.com/Matheushrz)  
+🇧🇷 Based in Brazil · 🌎 Open to Remote Opportunities Worldwide
 
----
+I'm a software engineering student and web developer focused on building practical applications, solving problems, and continuously improving my engineering skills.
 
-## 🚀 Featured Projects
-- **[Portfolio Website](https://matheushrz.github.io/matheus-portfolio/)** – Clean UI, dark/light mode, smooth animations, AI assistant  
-- **[Scroll Odyssey](https://github.com/Matheushrz/Scroll-Odyssey)** – Immersive storytelling website with parallax effects  
-- **[Interactive 3D Showcase](https://github.com/Matheushrz/Interactive-3D-Showcase)** – 3D product carousel with animations  
-- **[UI Playground](https://github.com/Matheushrz/UI-Playground)** – Collection of modern UI microinteractions  
+I enjoy working across the web development stack, from interactive user interfaces to APIs, database integration, and application logic. I'm currently developing **MTX Commerce**, a SaaS project focused on helping businesses manage their daily commercial operations.
 
----
+## 🚀 Currently Building
 
-## 🌱 Currently Learning
-- Advanced **React** and **Next.js**  
-- **TypeScript** best practices  
-- **TailwindCSS** and modern UI design  
-- Building scalable **Frontend architectures**  
+### MTX Commerce — Business Management SaaS
 
----
+MTX Commerce is an ongoing software project designed to bring essential business operations together in one application.
 
-## ✨ About Me
-I’m passionate about creating **modern, engaging web experiences** with clean code and thoughtful design.  
-My focus is **Frontend Development**, and I aim to deliver impactful projects that combine performance, usability, and aesthetics.  
+**Planned and implemented areas include:**
+- Product and inventory management
+- Sales and customer management
+- Financial tracking, expenses, and cash flow
+- Accounts receivable and payment reminders
+- Database-backed application workflows
+- Subscription functionality under development
 
----
+**Technologies:** Next.js, React, Supabase, PostgreSQL, and modern web development tools.
 
-# 🇧🇷 Em Português
+[Explore my GitHub repositories](https://github.com/Matheushrz)
 
-🎓 Estudante de Engenharia de Software • 💻 Desenvolvedor Frontend  
-🌍 Aberto a **oportunidades remotas** e colaborações internacionais  
+## 🧩 Featured Projects
 
----
+### [MTX Commerce](https://github.com/Matheushrz/mtx-commerce)
+A SaaS application in development focused on business operations, inventory, sales, customers, and financial management.
 
-## 🔗 Links
-- 🌐 [Portfólio](https://matheushrz.github.io/matheus-portfolio)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-reis-bb38a7265)  
-- 🖥️ [GitHub](https://github.com/Matheushrz)  
+### [API Products — Node.js](https://github.com/Matheushrz/API-Produtos-Node)
+A REST API project for product management, demonstrating CRUD operations and backend development fundamentals.
 
----
+### [Personal Portfolio](https://matheushrz.github.io/matheus-portfolio)
+A portfolio showcasing web projects, interface design, animations, and interactive features.
 
-## 🚀 Projetos em Destaque
-- **[Website Portfólio](https://matheushrz.github.io/matheus-portfolio/)** – UI clean, dark/light mode, animações suaves, assistente IA  
-- **[Scroll Odyssey](https://github.com/Matheushrz/Scroll-Odyssey)** – Site imersivo de storytelling com efeitos de parallax  
-- **[Interactive 3D Showcase](https://github.com/Matheushrz/Interactive-3D-Showcase)** – Carrossel 3D de produtos com animações  
-- **[UI Playground](https://github.com/Matheushrz/UI-Playground)** – Coleção de microinterações modernas de UI  
+### [Scroll Odyssey](https://github.com/Matheushrz/Scroll-Odyssey)
+An immersive web experience featuring storytelling, scrolling interactions, and parallax effects.
 
----
+### [Interactive 3D Showcase](https://github.com/Matheushrz/Interactive-3D-Showcase)
+An interactive product presentation exploring 3D layouts and frontend animations.
 
-## 🌱 Atualmente Aprendendo
-- **React** e **Next.js** avançados  
-- Boas práticas de **TypeScript**  
-- **TailwindCSS** e design moderno  
-- Arquiteturas escaláveis de **Frontend**  
+## 🛠️ Technologies & Tools
 
----
+**Frontend**
+- React and Next.js
+- JavaScript and TypeScript
+- Angular and Vue.js
+- Tailwind CSS
 
-## ✨ Sobre Mim
-Sou apaixonado por criar **experiências web modernas e envolventes**, com código limpo e design pensado.  
-Meu foco é **Desenvolvimento Frontend**, buscando sempre unir performance, usabilidade e estética em cada projeto.  
+**Backend & Databases**
+- Node.js and Express.js
+- REST API integration
+- PostgreSQL and Supabase
+- Firebase
+
+**Tools & Workflow**
+- Git and GitHub
+- Vercel and Netlify
+- Figma
+- AI-assisted development tools
+
+## 🌱 Areas I'm Improving
+
+- TypeScript and full-stack application development
+- API design and backend fundamentals
+- SQL and relational database design
+- Testing, debugging, and code quality
+- Maintainable architecture and software reliability
+- Git workflows and collaborative development
+
+## 🧠 My Engineering Approach
+
+- **Understand the problem:** Break down requirements before implementing a solution.
+- **Write maintainable code:** Prioritize clarity, structure, and readability.
+- **Verify behavior:** Test functionality and investigate unexpected results.
+- **Use AI responsibly:** Treat AI-generated code as something to review, understand, and validate.
+- **Keep learning:** Build projects that help me turn technical knowledge into practical experience.
+
+## 🎯 Career Goals
+
+I'm looking for a Junior Software Engineer or Junior Full-Stack Developer opportunity where I can contribute to real products, collaborate with experienced engineers, learn through code reviews, and grow through practical problem-solving.
+
+I'm particularly interested in teams that value clean code, technical curiosity, collaboration, and reliable software.
+
+## 🔗 Connect With Me
+
+- **Portfolio:** https://matheushrz.github.io/matheus-portfolio
+- **LinkedIn:** https://www.linkedin.com/in/matheus-reis-bb38a7265
+- **GitHub:** https://github.com/Matheushrz
+
+Thanks for visiting my profile! ⭐
